@@ -1,1 +1,4 @@
-name, date, description
+Sarah Selby, January 72, 2015
+
+Using the event listener "onclick" on the canvas element and an incremented variable "toggle", 
+everytime the canvas is clicked the function "toggleShape" is called and a different shape is drawn.
